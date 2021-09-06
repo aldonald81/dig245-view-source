@@ -1,2 +1,19 @@
 
 /* css */
+
+* {
+  color: white
+}
+.list1 {
+  color: green;
+  background-color: blue;
+}
+
+.list2 {
+  color: lightblue;
+  background-color: green;
+}
+
+h1 {
+  font-size: 15;
+}
